@@ -314,6 +314,7 @@ DOMAIN-SUFFIX,immob.cn
 DOMAIN-SUFFIX,impservice.youdao.com
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,im-x.jd.com
+DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,inmobi.cn
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,in-neo.cn
@@ -639,6 +640,7 @@ DOMAIN-SUFFIX,vpptv.admaster.com.cn
 DOMAIN-SUFFIX,vstat.my.tv.sohu.com
 DOMAIN-SUFFIX,vstat.v.blog.sohu.com
 DOMAIN-SUFFIX,vue-js.cyou
+DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wanproxy.127.net
 DOMAIN-SUFFIX,wanzjhb.com
