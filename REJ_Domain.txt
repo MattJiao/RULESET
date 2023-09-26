@@ -633,6 +633,7 @@ DOMAIN-SUFFIX,vhcshe.com
 DOMAIN-SUFFIX,vip.storage.weibo.com
 DOMAIN-SUFFIX,vm.aty.sohu.com
 DOMAIN-SUFFIX,voiceads.cn
+DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,volcsirius.com
 DOMAIN-SUFFIX,vpptv.admaster.com.cn
 DOMAIN-SUFFIX,vstat.my.tv.sohu.com
