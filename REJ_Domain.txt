@@ -330,6 +330,7 @@ DOMAIN-SUFFIX,jlnls.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,joyplus.tv
 DOMAIN-SUFFIX,jp.as.pptv.com
+DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,js96110.com.cn
 DOMAIN-SUFFIX,jschina.com.cn
 DOMAIN-SUFFIX,jssav-hk.xyz
