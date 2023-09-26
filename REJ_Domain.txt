@@ -190,6 +190,7 @@ DOMAIN-SUFFIX,crs.baidu.com
 DOMAIN-SUFFIX,csjplatform.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,ctr.hd.sohu.com
+DOMAIN-SUFFIX,cx-hub-static.sf-express.com
 DOMAIN-SUFFIX,c.uaa.iqiyi.com
 DOMAIN-SUFFIX,c.wcpt.biz.weibo.com
 DOMAIN-SUFFIX,dangjian.cn
