@@ -332,6 +332,7 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,joyplus.tv
 DOMAIN-SUFFIX,jp.as.pptv.com
 DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,js96110.com.cn
 DOMAIN-SUFFIX,jschina.com.cn
 DOMAIN-SUFFIX,jssav-hk.xyz
@@ -589,6 +590,8 @@ DOMAIN-SUFFIX,tvax1.sinaimg.cn
 DOMAIN-SUFFIX,tvfuwu.com
 DOMAIN-SUFFIX,tydouke.com
 DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ucmp.sf-express.com
+DOMAIN-SUFFIX,ucmp-static.sf-express.com
 DOMAIN-SUFFIX,ucstat.baidu.com
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uczzd.cn.com
