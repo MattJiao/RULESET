@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,dui88.com
 DOMAIN-SUFFIX,duiba.com.cn
 DOMAIN-SUFFIX,dushu.ru
 DOMAIN-SUFFIX,easyrecoverychina.com
+DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,e.baidu.com
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,ediuschina.com
