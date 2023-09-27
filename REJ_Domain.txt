@@ -268,7 +268,6 @@ DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,g.jssdk.net
 DOMAIN-SUFFIX,gmw.cn
-DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gorgon.youdao.com
 DOMAIN-SUFFIX,gozendata.com
 DOMAIN-SUFFIX,gss3.bdstatic.com
