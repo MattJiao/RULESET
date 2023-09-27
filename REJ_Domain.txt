@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,appdownload.alicdn.com
 DOMAIN-SUFFIX,appjiagu.com
 DOMAIN-SUFFIX,applifier.com
 DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,as.aplus.pptv.com
 DOMAIN-SUFFIX,as.baidu.com
 DOMAIN-SUFFIX,ashifen.com
