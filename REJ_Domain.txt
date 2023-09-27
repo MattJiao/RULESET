@@ -182,6 +182,7 @@ DOMAIN-SUFFIX,cnnic.net.cn
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,conf.hpplay.cn
 DOMAIN-SUFFIX,config.cmpassport.com
+DOMAIN-SUFFIX,connectivity.samsung.com.cn
 DOMAIN-SUFFIX,connexity.net
 DOMAIN-SUFFIX,coreldrawchina.com
 DOMAIN-SUFFIX,coremetrics.com
