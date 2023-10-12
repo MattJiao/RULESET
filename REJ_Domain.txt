@@ -246,6 +246,9 @@ DOMAIN-SUFFIX,f.aty.sohu.com
 DOMAIN-SUFFIX,feed.baidu.com
 DOMAIN-SUFFIX,flstudiochina.com
 DOMAIN-SUFFIX,flurry.com
+DOMAIN-SUFFIX,flyermobi.cn
+DOMAIN-SUFFIX,flyermobi.com
+DOMAIN-SUFFIX,flyermobi.net
 DOMAIN-SUFFIX,fmg.aty.sohu.com
 DOMAIN-SUFFIX,focusbaiduafp.allyes.com
 DOMAIN-SUFFIX,forecast.sina.cn
