@@ -271,6 +271,7 @@ DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,g.jssdk.net
+DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,gmw.cn
 DOMAIN-SUFFIX,gorgon.youdao.com
 DOMAIN-SUFFIX,gozendata.com
