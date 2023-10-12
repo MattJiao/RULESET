@@ -159,6 +159,8 @@ DOMAIN-SUFFIX,c.baidu.com
 DOMAIN-SUFFIX,cb.baidu.com
 DOMAIN-SUFFIX,c.biz.weibo.com
 DOMAIN-SUFFIX,cbjs.baidu.com
+DOMAIN-SUFFIX,chanct.cn
+DOMAIN-SUFFIX,chanct.com
 DOMAIN-SUFFIX,chartboost.com
 DOMAIN-SUFFIX,chemdraw.com.cn
 DOMAIN-SUFFIX,cjhq.baidu.com
