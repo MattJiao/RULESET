@@ -457,6 +457,7 @@ DOMAIN-SUFFIX,opencloud.wostore.cn
 DOMAIN-SUFFIX,open.e.189.cn
 DOMAIN-SUFFIX,open.e.kuaishou.com
 DOMAIN-SUFFIX,open.smzdm.com
+DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,openstorage.ad.cmvideo.cn
 DOMAIN-SUFFIX,optaim.com
 DOMAIN-SUFFIX,optimix.cn
