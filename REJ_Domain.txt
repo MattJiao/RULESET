@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,beyondcompare.cc
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
 DOMAIN-SUFFIX,biz.weibo.com
+DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,bobo.163.com
 DOMAIN-SUFFIX,boscdn.bpc.baidu.com
 DOMAIN-SUFFIX,bozhou666.com
