@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,appjiagu.com
 DOMAIN-SUFFIX,applifier.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,aroom.love
 DOMAIN-SUFFIX,as.aplus.pptv.com
 DOMAIN-SUFFIX,as.baidu.com
 DOMAIN-SUFFIX,ashifen.com
@@ -495,6 +496,7 @@ DOMAIN-SUFFIX,pics.taobaocdn.com
 DOMAIN-SUFFIX,pingjs.qq.com
 DOMAIN-SUFFIX,pingma.qq.com
 DOMAIN-SUFFIX,pingtcss.qq.com
+DOMAIN-SUFFIX,pipc.top
 DOMAIN-SUFFIX,pl.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,plt.data.pplive.com
 DOMAIN-SUFFIX,pm.aty.sohu.com
