@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN-SUFFIX,beacon.tingyun.com
 DOMAIN-SUFFIX,bendan.shop
 DOMAIN-SUFFIX,beyondcompare.cc
+DOMAIN-SUFFIX,bigdata-behaviordata.189.cn
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
 DOMAIN-SUFFIX,biz.weibo.com
