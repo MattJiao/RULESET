@@ -675,6 +675,7 @@ DOMAIN-SUFFIX,vm.aty.sohu.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,volcsirius.com
+DOMAIN-SUFFIX,volctrack.com
 DOMAIN-SUFFIX,vpptv.admaster.com.cn
 DOMAIN-SUFFIX,vstat.my.tv.sohu.com
 DOMAIN-SUFFIX,vstat.v.blog.sohu.com
