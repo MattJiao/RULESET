@@ -421,6 +421,7 @@ DOMAIN-SUFFIX,meta.video.qiyi.com
 DOMAIN-SUFFIX,mf98da.com
 DOMAIN-SUFFIX,m.game.weibo.cn
 DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,mindmanager.cc
 DOMAIN-SUFFIX,miniapp.bilibili.com
 DOMAIN-SUFFIX,mmarket.com
