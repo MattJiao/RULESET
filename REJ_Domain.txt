@@ -633,7 +633,6 @@ DOMAIN-SUFFIX,tvax1.sinaimg.cn
 DOMAIN-SUFFIX,tvfuwu.com
 DOMAIN-SUFFIX,tydouke.com
 DOMAIN-SUFFIX,uc.cn
-DOMAIN-SUFFIX,ucmp.sf-express.com
 DOMAIN-SUFFIX,ucmp-static.sf-express.com
 DOMAIN-SUFFIX,ucstat.baidu.com
 DOMAIN-SUFFIX,ucweb.com
