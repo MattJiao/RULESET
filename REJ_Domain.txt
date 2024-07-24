@@ -60,6 +60,8 @@ DOMAIN-SUFFIX,adm.baidu.com
 DOMAIN-SUFFIX,ad.mi.com
 DOMAIN-SUFFIX,admin6.com
 DOMAIN-SUFFIX,ad.m.iqiyi.com
+DOMAIN-SUFFIX,ad.tencentmusic.com
+DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adm.leju.sina.com.cn
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adnet.qq.com
