@@ -121,6 +121,7 @@ DOMAIN-SUFFIX,api.youqian.baidu.com
 DOMAIN-SUFFIX,apmconfig.douyucdn.cn
 DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,appads.com
+DOMAIN-SUFFIX,applecsb.crm.189.cn
 DOMAIN-SUFFIX,app.aplus.pptv.com
 DOMAIN-SUFFIX,appcloud2.in.zhihu.com
 DOMAIN-SUFFIX,appdownload.alicdn.com
