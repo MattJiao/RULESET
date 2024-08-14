@@ -623,6 +623,7 @@ DOMAIN-SUFFIX,tj.g.pptv.com
 DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
 DOMAIN-SUFFIX,tk.baidu.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
+DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,trc.taboola.com
 DOMAIN-SUFFIX,trends.mobile.sina.cn
 DOMAIN-SUFFIX,tt.ibiquge.la
