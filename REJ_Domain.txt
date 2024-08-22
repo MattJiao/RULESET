@@ -528,6 +528,7 @@ DOMAIN-SUFFIX,r6oxuhnjm.shop
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,rcd.iqiyi.com
 DOMAIN-SUFFIX,redcore.cn
+DOMAIN-SUFFIX,redsipwx.sipac.gov.cn
 DOMAIN-SUFFIX,renda.pw
 DOMAIN-SUFFIX,renxingganwu.com
 DOMAIN-SUFFIX,renzhongjiaoyu.xyz
