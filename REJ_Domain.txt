@@ -426,6 +426,7 @@ DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,mindmanager.cc
 DOMAIN-SUFFIX,miniapp.bilibili.com
+DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mmarket.com
 DOMAIN-SUFFIX,mmg.aty.sohu.com
 DOMAIN-SUFFIX,mmstat.com
