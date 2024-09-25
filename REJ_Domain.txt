@@ -576,6 +576,7 @@ DOMAIN-SUFFIX,smartad.10010.com
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartmad.com
 DOMAIN-SUFFIX,sm.bdimg.com
+DOMAIN-SUFDIX,sm.cn
 DOMAIN-SUFFIX,smsks1.cmpassport.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,sobot.com
