@@ -565,6 +565,7 @@ DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,shjzfw.cn
 DOMAIN-SUFFIX,showcome.net
 DOMAIN-SUFFIX,show.re.taobao.com
+DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,sigmob.com
 DOMAIN-SUFFIX,sinajs.cn
