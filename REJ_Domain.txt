@@ -279,6 +279,7 @@ DOMAIN-SUFFIX,gas.data.pplive.com
 DOMAIN-SUFFIX,gb.corp.163.com
 DOMAIN-SUFFIX,gdfp.gifshow.com
 DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,genkimart.ltd
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
