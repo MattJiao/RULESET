@@ -316,11 +316,13 @@ DOMAIN-SUFFIX,hotchat-im.iqiyi.com
 DOMAIN-SUFFIX,hotjar.com
 DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hpd.baidu.com
+DOMAIN-SUFFIX,httpdns.bilivideo.com
 DOMAIN-SUFFIX,huangpu.org.cn
 DOMAIN-SUFFIX,huanshawang.cn
 DOMAIN-SUFFIX,huichuan.sm.cn
 DOMAIN-SUFFIX,huishenghuiying.com.cn
 DOMAIN-SUFFIX,huodong.ios.shouji.360.cn
+DOMAIN-SUFFIX,hw-sh-pcdn-97.biliapi.net
 DOMAIN-SUFFIX,hydra.alibaba.com
 DOMAIN-SUFFIX,iacc.qq.com
 DOMAIN-SUFFIX,i.apps.sina.cn
@@ -756,6 +758,7 @@ DOMAIN-SUFFIX,zlongame.com
 DOMAIN-SUFFIX,znsv.baidu.com
 DOMAIN-SUFFIX,ztxh-bj.com
 DOMAIN-SUFFIX,zuimeitianqi.com
+DOMAIN-SUFFIX,zulong.com
 DOMAIN-SUFFIX,zymo.mps.weibo.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzisnvb.cn
