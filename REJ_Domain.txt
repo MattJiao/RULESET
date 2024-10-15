@@ -380,6 +380,7 @@ DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,kuaikan.netmon.360safe.com
 DOMAIN-SUFFIX,kuaishou.cn
 DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,lbhqin.cn
 DOMAIN-SUFFIX,leak.360.cn
 DOMAIN-SUFFIX,liadm.com
@@ -725,6 +726,7 @@ DOMAIN-SUFFIX,xrkadslmgg.top
 DOMAIN-SUFFIX,xrkadslmgg.xyz
 DOMAIN-SUFFIX,xshellcn.com
 DOMAIN-SUFFIX,xuexi.cn
+DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,yeshoutuan.cn
 DOMAIN-SUFFIX,yhz18.com
 DOMAIN-SUFFIX,yihuifu.cn
