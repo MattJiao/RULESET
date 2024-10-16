@@ -1,3 +1,9 @@
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,sjxydc.com
+DOMAIN-SUFFIX,vegslb.com
+DOMAIN-SUFFIX,bsgslb.cn
+DOMAIN-SUFFIX,ietheivaicai.com
 DOMAIN-SUFFIX,0430.com
 DOMAIN-SUFFIX,uito.top
 DOMAIN-SUFFIX,064ioio.com
