@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,mssdk.volces.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,telecom.cn
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,unitychina.cn
