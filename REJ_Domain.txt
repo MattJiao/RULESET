@@ -406,7 +406,6 @@ DOMAIN-SUFFIX,lmnrttc.com
 DOMAIN-SUFFIX,localytics.com
 DOMAIN-SUFFIX,location.ximalaya.com
 DOMAIN-SUFFIX,log1.cmpassport.com
-DOMAIN-SUFFIX,log.cmbchina.com
 DOMAIN-SUFFIX,log.nuomi.com
 DOMAIN-SUFFIX,logoshejishi.com
 DOMAIN-SUFFIX,log.sina.cn
