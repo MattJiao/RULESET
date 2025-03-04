@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,0430.com
 DOMAIN-SUFFIX,siomxity.net
 DOMAIN-SUFFIX,tourenwang.com
+DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,ttalkai.com
 DOMAIN-SUFFIX,064ioio.com
 DOMAIN-SUFFIX,09mk.cn
