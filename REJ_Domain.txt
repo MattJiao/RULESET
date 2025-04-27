@@ -1,3 +1,14 @@
+DOMAIN-SUFFIX,siomxity.com
+DOMAIN-SUFFIX,ad-stir.com
+DOMAIN-SUFFIX,genieesspv.jp,
+DOMAIN-SUFFIX,gsspat.jp,
+DOMAIN-SUFFIX,lmadps.jp,
+DOMAIN-SUFFIX,fam-8.net,
+DOMAIN-SUFFIX,bance.jp,
+DOMAIN-SUFFIX,i2ad.jp,
+DOMAIN-SUFFIX,fam-ad.com,
+DOMAIN-SUFFIX,api.sec.miui.com,
+DOMAIN-SUFFIX,adv.sec.miui.com,
 DOMAIN-SUFFIX,0430.com
 DOMAIN-SUFFIX,tp2p.kg.qq.com
 DOMAIN-SUFFIX,twns.p2ptun.qq.com
