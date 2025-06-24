@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,siomxity.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,genieesspv.jp,
 DOMAIN-SUFFIX,gsspat.jp,
