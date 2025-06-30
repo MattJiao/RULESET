@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,report-online.sh.wxgateway.com
 DOMAIN-SUFFIX,4399sy.com
+DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,wqop2018.com
 DOMAIN-SUFFIX,aslk2018.com
 DOMAIN-SUFFIX,zzdjgw.cc
