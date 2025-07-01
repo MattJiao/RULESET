@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,report-online.sh.wxgateway.com
+DOMAIN-SUFFIX,vemarsdev.com
 DOMAIN-SUFFIX,cjjd01.com
 DOMAIN-SUFFIX,cjjd02.com
 DOMAIN-SUFFIX,cjjd03.com
