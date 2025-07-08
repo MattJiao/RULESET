@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,p6-ad-sign.byteimg.com
 DOMAIN-SUFFIX,p7-ad-sign.byteimg.com
 DOMAIN-SUFFIX,p8-ad-sign.byteimg.com
 DOMAIN-SUFFIX,p9-ad-sign.byteimg.com
+DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,frontier-toutiao-hl.fqnovel.com
 DOMAIN-SUFFIX,p3.douyinpic.com
 DOMAIN-SUFFIX,p11.douyinpic.com
