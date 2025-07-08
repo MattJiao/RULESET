@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,report-online.sh.wxgateway.com
+DOMAIN-SUFFIX,fqnovelvod.com
 DOMAIN-SUFFIX,p1-ad-sign.byteimg.com
 DOMAIN-SUFFIX,p2-ad-sign.byteimg.com
 DOMAIN-SUFFIX,p3-ad-sign.byteimg.com
