@@ -359,7 +359,6 @@ DOMAIN-SUFFIX,gmw.cn
 DOMAIN-SUFFIX,gmx31.top
 DOMAIN-SUFFIX,gorgon.youdao.com
 DOMAIN-SUFFIX,gozendata.com
-DOMAIN-SUFFIX,grpc.biliapi.net
 DOMAIN-SUFFIX,gss3.bdstatic.com
 DOMAIN-SUFFIX,gsspat.jp,
 DOMAIN-SUFFIX,gtimg.cn
