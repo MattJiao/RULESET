@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,0430.com
+DOMAIN-SUFFIX,gycss.cn
+DOMAIN-SUFFIX,cospu2011.top
+DOMAIN-SUFFIX,cosman106.top
 DOMAIN-SUFFIX,scsyskj.com
 DOMAIN-SUFFIX,wfrkl.com
 DOMAIN-SUFFIX,rjguo.com
