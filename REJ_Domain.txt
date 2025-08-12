@@ -1,5 +1,16 @@
 DOMAIN-SUFFIX,0430.com
 DOMAIN-SUFFIX,xsgimlc.com
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,ads-img-al.xhscdn.com
+DOMAIN-SUFFIX,ads-img-qc.xhscdn.com
+DOMAIN-SUFFIX,ads-video-al.xhscdn.com
+DOMAIN-SUFFIX,ads-video-qc.xhscdn.com
+DOMAIN-SUFFIX,ads-vp5.xhscdn.com
+DOMAIN-SUFFIX,growth-img.xhscdn.com
+DOMAIN-SUFFIX,sns-webpic.xhscdn.com
+DOMAIN-SUFFIX,xhslive-video.xhscnd.com
+DOMAIN-SUFFIX,redbascket.com
 DOMAIN-SUFFIX,064ioio.com
 DOMAIN-SUFFIX,09mk.cn
 DOMAIN-SUFFIX,1218.com.cn
