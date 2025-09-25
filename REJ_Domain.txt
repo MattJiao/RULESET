@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,0430.com
+DOMAIN-SUFFIX,sigmob.cn
 DOMAIN-SUFFIX,xsgimlc.com
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
