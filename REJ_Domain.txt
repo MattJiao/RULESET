@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,0430.com
 DOMAIN-SUFFIX,sigmob.cn
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,ishumei.com
 DOMAIN-SUFFIX,xsgimlc.com
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
