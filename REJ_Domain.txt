@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,0430.com
+DOMAIN-SUFFIX,shanhutech.cn
+DOMAIN-SUFFIX,ludashi.com
+DOMAIN-SUFFIX,fireemulator.com
 DOMAIN-SUFFIX,apkevery.com
 DOMAIN-SUFFIX,sigmob.cn
 DOMAIN-SUFFIX,portal101.cn
