@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,dclbitx.xyz
 DOMAIN-SUFFIX,mezxzio.com
 DOMAIN-SUFFIX,xn--vuqy7zft2amna.com
 DOMAIN-SUFFIX,evqqkpa.xyz
-DOMAIN,26424wdwlp.evqqkpa.xyz
 DOMAIN-SUFFIX,xn--9krv3x413bbyb.com
 DOMAIN-SUFFIX,r9mhps200.vip
 DOMAIN-SUFFIX,logmvs.com
