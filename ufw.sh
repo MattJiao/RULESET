@@ -1239,6 +1239,9 @@ ufw deny from 129.224.206.0/23
 ufw deny from 163.172.0.0/16
 ufw deny from 34.118.128.0/18
 ufw deny from 211.37.128.0/18
+ufw deny from 47.245.0.0/16
+
+
 
 
 ufw allow 29174;ufw allow 80;ufw allow 443
