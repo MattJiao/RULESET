@@ -1197,13 +1197,4 @@ ufw deny from 223.244.0.0/18
 
 ufw allow 29174;ufw allow 80;ufw allow 443
 
-
-ufw --force enable
-
-sleep 2
-iptables -I INPUT 3 -j ufw-user-input
-sleep 2
-
-ufw disable
-sleep 2
 ufw --force enable
