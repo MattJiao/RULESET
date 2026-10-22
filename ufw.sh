@@ -1,6 +1,7 @@
 apt install ufw -y
 ufw --force reset
 ufw default deny
+ufw deny in from 57.141.0.0/16
 ufw deny in from 66.249.68.0/24
 ufw deny in from 17.166.0.0/16
 ufw deny in from 185.210.40.0/22
