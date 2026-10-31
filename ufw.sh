@@ -1307,7 +1307,9 @@ ufw deny in from 223.82.98.0/24
 ufw deny in from 223.83.64.0/19
 ufw deny in from 223.199.250.0/24
 ufw deny in from 223.244.0.0/18
+ufw insert 1 allow from  191.222.214.66
 
+ 
 ufw allow 29174;ufw allow 80;ufw allow 443
 
 ufw --force enable
